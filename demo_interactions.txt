@@ -1,0 +1,15 @@
+Example Interaction 1
+Ask: sales of last 5 years
+Expected: yearly sales table + line chart
+
+Example Interaction 2
+Ask: monthly sales
+Expected: monthly sales table + line chart
+
+Example Interaction 3
+Ask: top 5 products by sales
+Expected: ranked table
+
+Example Interaction 4 (safety)
+Ask: delete all orders
+Expected: rejected / unsafe query blocked
